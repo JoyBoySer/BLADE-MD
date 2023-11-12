@@ -1,24 +1,24 @@
 
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
-    <img alt=Support height="250" src="https://telegra.ph/file/362dd0f0cb45468934804.jpg"> 
+  <a href="https://chat.whatsapp.com/LcY3uzJyimr7nopSVALIOK">
+    <img alt=Support height="250" src="https://te.legra.ph/file/dfafe14809de1a5b0c0dc.jpg"> 
     </p>
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM BLADE ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+THE TEAM SHXME3M ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
-  <a href="https://github.com/Bladeh4x/BLADE-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Bladeh4x/BLADE-MD?style=social">
+  <a href="https://github.com/Keralaprofessor/BLADE-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Keralaprofessor/BLADE-MD?style=social">
 
  <p align="center">
-  <a href="https://github.com/Bladeh4x/BLADE-MD/fork">
+  <a href="https://github.com/Keralaprofessor/BLADE-MD/fork">
     <img src="https://img.shields.io/github/forks/Bladeh4x/BLADE-MD?label=Fork&style=social">
   
   # ```Tap Here For Help```  
   
   <p align="left">
-  <a href="https://wa.me/2348059540212?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20blade%20md">
+  <a href="https://wa.me/918593848438?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20blade%20md">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   Tap here for contact me on WhatsApp Messenger 
   </p>
@@ -26,7 +26,7 @@
   <a href="My email: maxdavid126@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
-    My email Adress : maxdavid126@gmail.com
+    My email Adress : aynne87@gmail.com
      
   <div><br>
 </p>
